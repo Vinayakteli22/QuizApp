@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="starting_page">QUIZZER</string>
+    <string name="opennavigation">QUIZZER</string>
+    <string name="closenavigation">QUIZZER</string>
+    <string name="welcome_to_quizzer">Welcome To Quizzer</string>
+    <string name="test_your_knowledge">Test Your Knowledge</string>
+    <string name="java_programming">JAVA PROGRAMMING</string>
+    <string name="c_programming">C PROGRAMMING</string>
+    <string name="python_programming">PYTHON PROGRAMMING</string>
+    <string name="java_programming1">JAVA Programming</string>
+    <string name="solve_the_following_question">Solve the Following Question</string>
+    <string name="total_question">total question</string>
+    <string name="this_is_question">this is question</string>
+    <string name="and_a">and A</string>
+    <string name="and_b">and B</string>
+    <string name="and_c">and C</string>
+    <string name="and_d">and D</string>
+    <string name="submit">Submit</string>
+    <string name="c_programming1">C Programming</string>
+    <string name="solve_the_following_question1">Solve the Following Question</string>
+    <string name="total_question1">total question</string>
+    <string name="this_is_question1">this is question</string>
+    <string name="and_a1">and A</string>
+    <string name="and_b1">and B</string>
+    <string name="and_c1">and C</string>
+    <string name="and_d4">and D</string>
+    <string name="submit1">Submit</string>
+    <string name="python_programming1">Python Programming</string>
+    <string name="and_a2">and A</string>
+    <string name="and_b2">and B</string>
+    <string name="and_c3">and C</string>
+    <string name="and_d2">and D</string>
+    <string name="submit2">Submit</string>
+    <string name="do_you_want_to_start_the_quiz">Do you want to start the quiz?</string>
+    <string name="note_in_this_quiz_have_20_question_and_time_limit_is_15_minute">Note: In this Quiz have 20 question and time limit is 10 minute..!!</string>
+
+
+</resources>
