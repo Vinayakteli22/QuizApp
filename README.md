@@ -45,3 +45,23 @@ QuizCraft is an Android application designed to help users test their knowledge 
 
    ```bash
    git clone https://github.com/YourUsername/QuizCraft.git
+2. Open the project in Android Studio.
+3. Sync the Gradle files.
+4. Run the app on an emulator or a physical device.
+
+🚀 Usage
+Play the Quiz
+1. Open the app on your device.
+2. Select a programming language quiz (e.g., Python, C, Java).
+3. The timer will start as soon as you begin the quiz.
+4. Answer the questions and click submit or wait for the timer to run out.
+5. After submission, your result will be displayed based on the number of correct answers.
+
+Download the APK:
+Download the APK
+
+Install the App:
+1. Transfer the APK file to your Android device.
+2. Open the APK file on your device and follow the installation instructions.
+3. Make sure to allow installations from unknown sources in your device settings.
+
