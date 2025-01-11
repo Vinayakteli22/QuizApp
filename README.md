@@ -29,7 +29,7 @@ Quizzer is an Android application designed to help users test their knowledge of
 
 | **Home Screen**            | **Question Screen**          |  
 |----------------------------|------------------------------|  
-| ![Home Screen](https://github.com/Vinayakteli22/QuizApp/blob/main/Hone-screen-quiz.jpg) | ![Question Screen](https://github.com/YourUsername/QuizCraft/blob/master/Question.jpg) |  
+| ![Home Screen](https://github.com/Vinayakteli22/QuizApp/blob/main/Hone-screen-quiz.jpg) | ![Question Screen](https://github.com/Vinayakteli22/QuizApp/blob/main/question-screen-quiz.jpg) |  
 
 ---
 
