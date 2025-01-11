@@ -58,8 +58,7 @@ Play the Quiz
 5. After submission, your result will be displayed based on the number of correct answers.
 
 Download the APK:
-[Download the APK](https://github.com/Vinayakteli22/QuizApp/releases/download/QuizApp/Quizzer.apk)
-
+[Download the APK](https://github.com/Vinayakteli22/QuizApp/releases/tag/Quizzer)
 Install the App:
 1. Transfer the APK file to your Android device.
 2. Open the APK file on your device and follow the installation instructions.
