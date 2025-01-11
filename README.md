@@ -1,7 +1,7 @@
-# QuizCraft 🧠✨  
+# Quizzer 🧠✨  
 ### A Timed Programming Language Quiz App  
 
-QuizCraft is an Android application designed to help users test their knowledge of programming languages. With a dynamic quiz interface, built-in timer, and automatic result display, QuizCraft offers an engaging way to learn and assess your coding skills.
+Quizzer is an Android application designed to help users test their knowledge of programming languages. With a dynamic quiz interface, built-in timer, and automatic result display, QuizCraft offers an engaging way to learn and assess your coding skills.
 
 ---
 
@@ -44,7 +44,7 @@ QuizCraft is an Android application designed to help users test their knowledge 
 1. Clone this repository:  
 
    ```bash
-   git clone https://github.com/YourUsername/QuizCraft.git
+   git clone https://github.com/Vinayakteli22/QuizApp.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
 4. Run the app on an emulator or a physical device.
@@ -58,7 +58,7 @@ Play the Quiz
 5. After submission, your result will be displayed based on the number of correct answers.
 
 Download the APK:
-Download the APK
+[Download the APK](https://github.com/Vinayakteli22/QuizApp/releases/download/QuizApp/Quizzer.apk)
 
 Install the App:
 1. Transfer the APK file to your Android device.
