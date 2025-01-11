@@ -43,7 +43,6 @@ Quizzer is an Android application designed to help users test their knowledge of
 ### Installation  
 1. Clone this repository:  
 
-   ```bash
    git clone https://github.com/Vinayakteli22/QuizApp.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
@@ -61,6 +60,20 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
    git push origin feature/new-feature  
 Open a pull request.
 
+
+🚀 Usage
+Download the APK:
+
+[Download the APK](https://github.com/Vinayakteli22/QuizApp/releases/download/Quizzer/app-debug.apk)
+
+Install the App:
+1. Open the app on your device.
+2. Select a programming language quiz (e.g., Python, C, Java).
+3. The timer will start as soon as you begin the quiz.
+4. Answer the questions and click submit or wait for the timer to run out.
+5. After submission, your result will be displayed based on the number of correct answers.
+
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -73,14 +86,3 @@ GitHub: Vinayak Teli
 
   Let me know if you'd like me to tweak anything further! 🚀
 
-
-🚀 Usage
-Download the APK:
-[Download the APK](https://github.com/Vinayakteli22/QuizApp/releases/download/QuizApp/Quizzer)
-
-Install the App:
-1. Open the app on your device.
-2. Select a programming language quiz (e.g., Python, C, Java).
-3. The timer will start as soon as you begin the quiz.
-4. Answer the questions and click submit or wait for the timer to run out.
-5. After submission, your result will be displayed based on the number of correct answers.
